@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# DEMO VIDEO
+https://github.com/user-attachments/assets/81e12688-a0d0-4fb7-af9d-cfda0777af0e
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
